@@ -1,0 +1,132 @@
+{
+  "name": "Samples affected by API change: 11",
+  "children": [
+    {
+      "name": "AirLocation: 5",
+      "children": [
+        {
+          "name": "System.Void CoreLocation.CLLocationManager::StartMonitoring(CoreLocation.CLRegion)",
+          "size": 0
+        },
+        {
+          "name": "System.Void CoreLocation.CLLocationManager::StopMonitoring(CoreLocation.CLRegion)",
+          "size": 0
+        },
+        {
+          "name": "System.Void CoreBluetooth.CBPeripheralManager::.ctor(CoreBluetooth.ICBPeripheralManagerDelegate,CoreFoundation.DispatchQueue)",
+          "size": 0
+        },
+        {
+          "name": "System.Void CoreLocation.CLLocationManager::StartRangingBeacons(CoreLocation.CLBeaconRegion)",
+          "size": 0
+        },
+        {
+          "name": "System.Void CoreLocation.CLLocationManager::StopRangingBeacons(CoreLocation.CLBeaconRegion)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "BracketStripes: 2",
+      "children": [
+        {
+          "name": "AVFoundation.AVCaptureAutoExposureBracketedStillImageSettings AVFoundation.AVCaptureAutoExposureBracketedStillImageSettings::Create(System.Single)",
+          "size": 0
+        },
+        {
+          "name": "AVFoundation.AVCaptureManualExposureBracketedStillImageSettings AVFoundation.AVCaptureManualExposureBracketedStillImageSettings::Create(CoreMedia.CMTime,System.Single)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "CloudKitAtlas: 2",
+      "children": [
+        {
+          "name": "System.Void CloudKit.CKNotificationInfo::set_AlertBody(System.String)",
+          "size": 0
+        },
+        {
+          "name": "System.Void CloudKit.CKNotificationInfo::set_ShouldSendContentAvailable(System.Boolean)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "FourInARow: 2",
+      "children": [
+        {
+          "name": "System.Void GameplayKit.GKMinMaxStrategist::set_RandomSource(GameplayKit.IGKRandom)",
+          "size": 0
+        },
+        {
+          "name": "System.Void GameplayKit.GKMinMaxStrategist::set_GameModel(GameplayKit.IGKGameModel)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "ManualCameraControls: 1",
+      "children": [
+        {
+          "name": "AVFoundation.AVCaptureAutoExposureBracketedStillImageSettings AVFoundation.AVCaptureAutoExposureBracketedStillImageSettings::Create(System.Single)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "PrivacyPrompts_Classic: 1",
+      "children": [
+        {
+          "name": "System.Void AVFoundation.AVAudioSession::RequestRecordPermission(AVFoundation.AVPermissionGranted)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "CloudCaptions: 1",
+      "children": [
+        {
+          "name": "System.Void CloudKit.CKNotificationInfo::set_AlertBody(System.String)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "Footprint: 1",
+      "children": [
+        {
+          "name": "System.Void CoreLocation.CLLocationManager::set_ActivityType(CoreLocation.CLActivityType)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "MetalBasic3D: 1",
+      "children": [
+        {
+          "name": "System.Void Metal.MTLRenderPassDepthAttachmentDescriptor::set_ClearDepth(System.Double)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "MetalImageProcessing: 1",
+      "children": [
+        {
+          "name": "System.Void Metal.MTLRenderPassDepthAttachmentDescriptor::set_ClearDepth(System.Double)",
+          "size": 0
+        }
+      ]
+    },
+    {
+      "name": "MetalImageProcessing: 1",
+      "children": [
+        {
+          "name": "System.Void Metal.MTLRenderPassDepthAttachmentDescriptor::set_ClearDepth(System.Double)",
+          "size": 0
+        }
+      ]
+    }
+  ]
+}
